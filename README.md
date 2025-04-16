@@ -1,13 +1,14 @@
 # 👋 Hi there, I'm Hyunjin Lee (이현진)
 
+> “도메인을 빠르게 이해하고, 기술을 기능으로 구현해내는 사람”
+
 🚀 Java 백엔드 개발자 | 금융 IT 기업 재직 중  
-💡 Web3.0 기반 인프라와 클라우드 시스템에 관심이 많습니다.  
 🏗 SSAFY(삼성청년소프트웨어아카데미) 수료 | 실전 프로젝트 경험 다수
 
 ## 💼 Career & Education
 - 하나금융티아이 | Web3.0 사업팀, 통합모니터링솔루션 TF
 - 삼성청년소프트웨어아카데미(SSAFY) 10기
-- 한국외국어대학교, 스톡홀름대학교 교환학생
+- 한국외국어대학교 졸업, 스톡홀름대학교 교환학생
 
 ## ⚒️ Tech Stack
 Java, Spring Framework, Gradle, Maven,
@@ -17,6 +18,9 @@ JPA/Hibernate, QueryDSL, MyBatis,
 Git, Docker, Jenkins, AWS EC2/S3,
 
 MySQL, Redis, RabbitMQ, OpenSearch
+
+## 💡 Repos
+[파이썬 웹 크롤러 실습 레포](https://github.com/hgene2452/web_crawler_study/tree/main)
 
 ## 📌 Projects
 - **🧳 Trip Together**
@@ -32,8 +36,4 @@ MySQL, Redis, RabbitMQ, OpenSearch
 ## 📫 Let's connect!
 [![Gmail Badge](https://img.shields.io/badge/-your_email_here@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hgene0929@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn_Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hyeonjin-lee-775027262/)
-
----
-
-> “도메인을 빠르게 이해하고, 기술을 기능으로 구현해내는 사람”
 
