@@ -17,13 +17,7 @@
 <br>
 
 ## ⚒️ Tech Stack
-Java, Spring Framework, Gradle, Maven,
-
-JPA/Hibernate, QueryDSL, MyBatis,
-
-Git, Docker, Jenkins, AWS EC2/S3,
-
-MySQL, Redis, RabbitMQ, OpenSearch
+<img src="https://img.shields.io/badge/Python 3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Requests-506365?style=for-the-badge&logo=Requests&logoColor=white"><img src="https://img.shields.io/badge/BeautifulSoup4-EF3F56?style=for-the-badge&logo=BeautifulSoup4&logoColor=white"><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 <br>
 
