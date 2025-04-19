@@ -17,13 +17,14 @@
 <br>
 
 ## ⚒️ Tech Stack
-<img src="https://img.shields.io/badge/Python 3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Requests-506365?style=for-the-badge&logo=Requests&logoColor=white"><img src="https://img.shields.io/badge/BeautifulSoup4-EF3F56?style=for-the-badge&logo=BeautifulSoup4&logoColor=white"><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Python 3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Requests-506365?style=for-the-badge&logo=Requests&logoColor=white"><img src="https://img.shields.io/badge/BeautifulSoup4-EF3F56?style=for-the-badge&logo=BeautifulSoup4&logoColor=white"><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br>
+<img src="https://img.shields.io/badge/kotlin 1.9-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 
 <br>
 
 ## 💡 Repos
-[파이썬 웹 크롤러 실습 레포](https://github.com/hgene2452/web_crawler_study/tree/main)
-[코틀린 PayPal, KoreaPost OpenAPI 연동 실습 레포](https://github.com/hgene2452/paypal_krpost)
+- [파이썬 웹 크롤러 실습 레포](https://github.com/hgene2452/web_crawler_study/tree/main)
+- [코틀린 PayPal, KoreaPost OpenAPI 연동 실습 레포](https://github.com/hgene2452/paypal_krpost)
 
 <br>
 
