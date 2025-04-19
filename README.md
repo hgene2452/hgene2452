@@ -23,6 +23,7 @@
 
 ## 💡 Repos
 [파이썬 웹 크롤러 실습 레포](https://github.com/hgene2452/web_crawler_study/tree/main)
+[코틀린 PayPal, KoreaPost OpenAPI 연동 실습 레포](https://github.com/hgene2452/paypal_krpost)
 
 <br>
 
