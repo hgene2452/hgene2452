@@ -2,8 +2,6 @@
 
 <br>
 
-> “도메인을 빠르게 이해하고, 기술을 기능으로 구현해내는 사람”
-
 🚀 Java 백엔드 개발자 | 금융 IT 기업 재직 중  
 🏗 SSAFY(삼성청년소프트웨어아카데미) 수료 | 실전 프로젝트 경험 다수
 
@@ -17,19 +15,14 @@
 <br>
 
 ## ⚒️ Tech Stack
-<img src="https://img.shields.io/badge/Python 3.12-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Requests-506365?style=for-the-badge&logo=Requests&logoColor=white"><img src="https://img.shields.io/badge/BeautifulSoup4-EF3F56?style=for-the-badge&logo=BeautifulSoup4&logoColor=white"><img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><br>
-<img src="https://img.shields.io/badge/kotlin 1.9-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/java 17-F7DF1E?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/springboot 3.1-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"><img src="https://img.shields.io/badge/springbatch-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br>
-<img src="https://img.shields.io/badge/jpa/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"><img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"><br>
+java, kotlin
+spring
+sql(mysql)
+kafka
 
 <br>
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
-<br>
-
-## 💡 Repos
-- [파이썬 웹 크롤러 실습 레포](https://github.com/hgene2452/web_crawler_study/tree/main)
-- [코틀린 PayPal, KoreaPost OpenAPI 연동 실습 레포](https://github.com/hgene2452/paypal_krpost)
 
 <br>
 
