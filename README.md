@@ -15,14 +15,10 @@
 <br>
 
 ## ⚒️ Tech Stack
-java, kotlin
-spring
-sql(mysql)
-kafka
-
-<br>
-
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+java, kotlin <br>
+spring <br>
+sql(mysql), kafka <br>
+openstack
 
 <br>
 
